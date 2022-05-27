@@ -4,7 +4,7 @@ I've decided to change my life to development.
 
 Now i'm learning frontend/web development, javaScript, CSS, HTML, especially Javascript.
 
-In plans learn React, Angular, Vue and Node.
+Improving myself in React, in future it will be Angular, Vue, react Native.
 
 Now i learn everything by myself.
 
