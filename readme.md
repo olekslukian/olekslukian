@@ -1,13 +1,7 @@
-Hello, im Alex Lukianov.
+# Welcome, my name is Alex Lukianov.
 
-I've decided to change my life to development.
+I am junior front-end developer. Now i'm working mainly with React, but i like to learn new technologies every time or i can do vanillaJS apps if it needed. 
+My work is giving apps logic and life and connecting them with aesthetic of UI.
+My path is long and hard, but i am ready to go further.
 
-Now i'm learning frontend/web development, javaScript, CSS, HTML, especially Javascript.
-
-Improving myself in React, in future it will be Angular, Vue, react Native.
-
-Now i learn everything by myself.
-
-Before i worked as a seaman, so English is not a problem for me.
-
-I just want to create different interesting projects.
+In the future i want to become a React Native/Flutter developer too.
